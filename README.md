@@ -1,6 +1,6 @@
-```
-LeetCode Solutions — Structured Learning Repository
 
+## LeetCode Solutions — Structured Learning Repository
+```
 This repository documents my ongoing LeetCode practice in a clean, organized format.
 The goal is not only to solve problems, but to understand why each solution works and build long-term problem-solving
 intuition.
